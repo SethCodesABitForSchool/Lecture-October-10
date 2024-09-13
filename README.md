@@ -1,5 +1,5 @@
-# Lecture-October-10
-Forecasting lecture. Lets say forecasting with an AR(1) but the true model is an Ar(4).
+# AUTOREGRESSIVE - AR(x) - Please do not use/cite
+Lets say forecasting with an AR(1) but the true model is an Ar(4)......
 # Larger Models:
 With larger model comes coefficient inefficinecy which is extrapolated into fute or forecast. 
 - Consider 2 models:
